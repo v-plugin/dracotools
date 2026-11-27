@@ -1,5 +1,4 @@
 # dracotools
-An open-source toolkit for practical development workflows.# DracoTools — 3D 模型压缩与优化工具
 
 > Draco + Meshopt 双引擎压缩 · KTX2 GPU 纹理 · 7 种格式互转 · 数据标记 · 3D 查看器 · 批量处理
 > 完全本地运行，数据不离开你的电脑
