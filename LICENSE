@@ -1,21 +1,67 @@
-MIT License
+DracoTools 专有软件许可协议
+DracoTools Proprietary Software License Agreement
 
-Copyright (c) 2026 potato
+版权所有 © 2024–2026 DracoTools。保留所有权利。
+Copyright (C) 2024–2026 DracoTools. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================================
+重要提示：本软件为授权软件，源代码不公开，不属于开源软件。
+IMPORTANT: This is licensed software. Its source code is NOT publicly
+available. It is NOT open source software.
+================================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+一、授权性质
+1. 本软件（包括桌面客户端、Web 在线版及相关文档）采用授权机制分发，
+   源代码不对外公开。
+2. 用户通过购买或免费方式获得授权后，方可以在本协议约定的范围内使用本软件。
+3. 本项目不接受外部代码贡献（Pull Request），也不对外提供源代码。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+二、许可范围
+1. 免费版：永久免费可用，仅限制单文件大小（模型 20 MB、纹理 5 MB）及
+   每次处理一个文件，查看器、日志等功能不限。
+2. 授权版：采用设备绑定、离线验证的授权密钥机制（一机一码）。一把密钥
+   仅可在其绑定的一台设备上使用。官方密钥以 DESKTOP- 开头，请通过应用内
+   购买渠道获取。
+3. 本许可仅授予使用权，不构成任何所有权转让。
+
+三、使用限制
+未经作者书面许可，任何人不得：
+1. 复制、分发、出售、出租、出借或以其他方式转让本软件；
+2. 对软件进行反编译、反汇编、逆向工程，或尝试获取、推导源代码；
+3. 修改、二次开发，或基于本软件创作衍生作品；
+4. 移除、遮盖或更改软件中的版权声明与授权标识；
+5. 绕过、破解、篡改授权验证机制，或共享、传播授权密钥。
+
+四、知识产权
+本软件、文档、界面设计及其全部知识产权均归 DracoTools 所有。本协议仅
+在授权范围内授予有限的使用权，不转让任何著作权、专利权或商标权。
+
+五、第三方组件
+本软件使用了 Draco、Meshopt (gltfpack)、Basis Universal、Three.js、Vue 等
+第三方开源组件，这些组件各自遵循其原有的开源许可证，详见相应上游项目。
+上述第三方开源许可证不适用于本软件自身的专有代码。
+
+六、免责声明
+本软件按"现状"（AS IS）提供，不作任何明示或暗示的保证，包括但不限于
+适销性、特定用途适用性和不侵权的保证。在法律允许的最大范围内，作者不对
+因使用或无法使用本软件而产生的任何损失承担责任。
+
+七、其他
+安装、使用本软件即表示你已阅读并同意本协议。如有疑问或需获取授权，
+请通过 QQ 2162788746 联系我们。
+
+--------------------------------------------------------------------------------
+简体中文为本协议正式文本；英文仅为参考译文。
+
+DracoTools Proprietary Software License Agreement (Summary)
+
+Copyright (C) 2024-2026 DracoTools. All rights reserved.
+
+This is licensed software, NOT open source; its source code is not publicly
+available. A license key (one device per key) is required for use beyond the
+free tier. You may NOT copy, distribute, reverse engineer, modify, create
+derivative works, or circumvent the license mechanism without written
+permission. Third-party open-source components (Draco, Meshopt, Basis
+Universal, Three.js, Vue, etc.) remain subject to their own licenses.
+Provided AS IS, without warranty of any kind.
+
